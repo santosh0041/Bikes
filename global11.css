@@ -1,0 +1,25 @@
+.mainBlock{
+    border:2px solid rgb(9, 9, 9);
+    width:350px;
+    display: flex;
+    flex-direction: column ;
+    justify-self: center;
+    align-items: center;
+}
+img{
+    width:290px;
+    height: 300px;
+}
+.parentBlock1{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgb(127, 135, 129);
+}
+.parentBlock2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgb(127, 135, 129);
+}
+.Head{
+    background-color: rgb(255, 0, 0);
+}

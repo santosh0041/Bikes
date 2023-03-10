@@ -1,0 +1,83 @@
+[
+    {
+        "BikeName":"Apache",
+        "BikeCompany" :"Apache",
+        "Features":["Styling","Compart","Mileage"],
+        "Mileage" :"50km",
+        "BikePhoto":"https://media.zigcdn.com/media/model/2022/Sep/right-side-view-1560468202_600x400.jpg"
+    },
+   
+
+
+    {
+        "BikeName":"RX 100",
+        "BikeCompany" :"Yamaha",
+        "Features":["Styling","2 Stroke","Light Weight"],
+        "Mileage" :"30km",
+        "BikePhoto":"https://gaadiwaadi.com/wp-content/uploads/2021/06/modified-Yamaha-RX-100-by-Vedansh-Automobile-2-667x500.jpg"
+    },
+
+    {
+        "BikeName":"Duke",
+        "BikeCompany" :"KTM",
+        "Features":["Styling","4 Stroke","Light Weight"],
+        "Mileage" :"35km",
+        "BikePhoto":"https://bd.gaadicdn.com/processedimages/ktm/ktm-duke-390/494X300/ktm-duke-3905fd47d061a3ea.jpg?impolicy=resize&imwidth=360"
+    },
+
+    {
+        "BikeName":"Splender",
+        "BikeCompany" :"Hero",
+        "Features":["Heavy Duty","4 Stroke","Heavy Weight"],
+        "Mileage" :"35km",
+        "BikePhoto":"https://bd.gaadicdn.com/processedimages/hero-motocorp/hero-motocorp-splendor/source/hero-motocorp-splendor5ec61f240b950.jpg"
+    },
+
+    {
+        "BikeName":"XL",
+        "BikeCompany" :"Luna",
+        "Features":["Heavy Duty","4 Stroke","Light Weight"],
+        "Mileage" :"30km",
+        "BikePhoto":"https://bd.gaadicdn.com/processedimages/tvs/tvs-xl100/494X300/tvs-xl1005fbb54aac9ecf.jpg?impolicy=resize&imwidth=360"
+    },
+
+    {
+        "BikeName":"Activa",
+        "BikeCompany" :"Hero",
+        "Features":["6G","No documents","Light Weight"],
+        "Mileage" :"40km",
+        "BikePhoto":"https://bd.gaadicdn.com/processedimages/honda/activa-6g/494X300/activa-6g63ce6f641ff4e.jpg"
+    },
+
+    {
+        "BikeName":"NS200",
+        "BikeCompany" :"Pulser",
+        "Features":["200CC","Good look","Heavy Weight"],
+        "Mileage" :"45km",
+        "BikePhoto":"https://i.ytimg.com/vi/T0kYcdGSt_8/maxresdefault.jpg"
+    },
+
+    {
+        "BikeName":"NS200",
+        "BikeCompany" :"Yamaha ",
+        "Features":["300CC","Good look","sports Bike"],
+        "Mileage" :"35km",
+        "BikePhoto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbswBak16b_sRE8UfE5a7V_2n-G8O7nriH1Q&usqp=CAU"
+    },
+
+    {
+        "BikeName":"Royal Enfield",
+        "BikeCompany" :"The Enfield Company ",
+        "Features":["200CC","Good look","Heavy Bike"],
+        "Mileage" :"30km",
+        "BikePhoto":"https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/scram/scram-411-landing.jpg"
+    },
+
+    {
+        "BikeName":"JAVA",
+        "BikeCompany" :"JAVA ",
+        "Features":["200CC","Good look","Heavy Bike"],
+        "Mileage" :"35km",
+        "BikePhoto":"https://bd.gaadicdn.com/processedimages/jawa-motorcycles/42-bobber/640X309/42-bobber6336e074ab9ea.jpg"
+    }
+]
